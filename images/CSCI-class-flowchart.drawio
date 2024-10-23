@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.0" pages="5">
   <diagram name="4-year" id="zcuVRARnLTpf-eT5LmWI">
-    <mxGraphModel dx="1985" dy="1330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1471" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,6 +328,9 @@
         <mxCell id="bCnr7pfyDfoHVdVC28fQ-90" value="Math Requirement&lt;div&gt;OR&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#000000;strokeWidth=5;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1155" y="970" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OaeeE0Z_AWOOtpRzRQRE-1" value="" style="html=1;dashed=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.gmdl.star;strokeColor=none;fillColor=#000000;shadow=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -601,7 +604,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B0jBVNxmUBOizE8pfox1" name="Sophomore">
-    <mxGraphModel dx="4027" dy="3540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2236" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -793,9 +796,6 @@
         <mxCell id="nhP3543DObvLnvur0kZq-46" value="GEN ED/ HONS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#000000;strokeWidth=5;gradientColor=none;" vertex="1" parent="nhP3543DObvLnvur0kZq-63">
           <mxGeometry x="420" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06MzdImEb7WjSy9FFxGF-1" value="&lt;div&gt;Gen Eds?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1450" width="1100" height="470" as="geometry" />
-        </mxCell>
         <mxCell id="f_8i4Wp7d6VwydwIdWOM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f_8i4Wp7d6VwydwIdWOM-1" target="nhP3543DObvLnvur0kZq-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -888,12 +888,6 @@
         <mxCell id="8xlb-x8mjytdyHM26VMO-60" value="HONS, try to complete CSCI 399" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=5;" vertex="1" parent="8xlb-x8mjytdyHM26VMO-63">
           <mxGeometry x="100" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yeCFV7V27L8L6WBfmQak-1" value="Offered in Fall" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f58114;strokeColor=#f58114;strokeWidth=6;" vertex="1" parent="8xlb-x8mjytdyHM26VMO-63">
-          <mxGeometry x="-80" y="360" width="180" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="XnhArOsQyNokxsi92d2_-1" value="Offered in spring" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF66B3;strokeColor=#f58114;strokeWidth=6;" vertex="1" parent="8xlb-x8mjytdyHM26VMO-63">
-          <mxGeometry x="-70" y="840" width="180" height="260" as="geometry" />
-        </mxCell>
         <mxCell id="XnhArOsQyNokxsi92d2_-2" value="CSCI 221:&amp;nbsp; Computer Programming I (3)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#ff66b3;strokeWidth=5;" vertex="1" parent="8xlb-x8mjytdyHM26VMO-63">
           <mxGeometry x="165" y="210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -940,7 +934,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-Wl4KMTEi1dZJ0rOhm7P" name="Senior">
-    <mxGraphModel dx="2236" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2874" dy="1520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -958,7 +952,7 @@
         <mxCell id="oBPiW-cz0Nb9I5vglP4t-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="oBPiW-cz0Nb9I5vglP4t-5" target="oBPiW-cz0Nb9I5vglP4t-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oBPiW-cz0Nb9I5vglP4t-5" value="CSCI 362:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=5;" vertex="1" parent="1">
+        <mxCell id="oBPiW-cz0Nb9I5vglP4t-5" value="CSCI 362:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#f58114;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oBPiW-cz0Nb9I5vglP4t-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="oBPiW-cz0Nb9I5vglP4t-8" target="oBPiW-cz0Nb9I5vglP4t-40">
@@ -972,7 +966,7 @@
         <mxCell id="v5z_nZAdZefUEP_309oV-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oBPiW-cz0Nb9I5vglP4t-8" target="oBPiW-cz0Nb9I5vglP4t-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oBPiW-cz0Nb9I5vglP4t-8" value="CSCI 499A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=5;" vertex="1" parent="1">
+        <mxCell id="oBPiW-cz0Nb9I5vglP4t-8" value="CSCI Elective" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="560" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oBPiW-cz0Nb9I5vglP4t-11" value="CSCI 120:&amp;nbsp;&lt;div&gt;Animation and Virtual Worlds (3)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#ff66b3;strokeWidth=5;" vertex="1" parent="1">
@@ -1043,7 +1037,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oBPiW-cz0Nb9I5vglP4t-50" value="CSCI 462:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=5;" vertex="1" parent="1">
+        <mxCell id="oBPiW-cz0Nb9I5vglP4t-50" value="CSCI 495: Capstone (3)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#ff66b3;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="1120" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oBPiW-cz0Nb9I5vglP4t-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="oBPiW-cz0Nb9I5vglP4t-52" target="oBPiW-cz0Nb9I5vglP4t-55">
@@ -1054,7 +1048,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oBPiW-cz0Nb9I5vglP4t-52" value="CSCI 499B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=5;" vertex="1" parent="1">
+        <mxCell id="oBPiW-cz0Nb9I5vglP4t-52" value="CSCI Elective" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="1120" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oBPiW-cz0Nb9I5vglP4t-55" value="GEN ED/HONS/MINOR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=5;" vertex="1" parent="1">
