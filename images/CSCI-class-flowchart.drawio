@@ -785,7 +785,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="4-year starting Spring" id="G6kOaa56QiiwyFPq9sWQ">
-    <mxGraphModel dx="728" dy="2162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="520" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-0" />
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-1" parent="SFHmJDTx3q4_LVQL7-9q-0" />
@@ -812,7 +812,7 @@
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-9" target="SFHmJDTx3q4_LVQL7-9q-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SFHmJDTx3q4_LVQL7-9q-9" value="CSCI 220:&lt;div&gt;Programing I (3)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=5;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
+        <mxCell id="SFHmJDTx3q4_LVQL7-9q-9" value="CSCI 220:&lt;div&gt;Programing I (3)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=5;dashed=1;perimeterSpacing=0;dashPattern=1 2;shadow=1;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
           <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-12" target="SFHmJDTx3q4_LVQL7-9q-53" edge="1">
@@ -956,7 +956,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SFHmJDTx3q4_LVQL7-9q-44" value="CSCI 221:&lt;div&gt;Programing II (3)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=5;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
+        <mxCell id="SFHmJDTx3q4_LVQL7-9q-44" value="CSCI 221:&lt;div&gt;Programing II (3)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=5;dashed=1;dashPattern=1 2;shadow=1;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
           <mxGeometry x="810" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-57" target="SFHmJDTx3q4_LVQL7-9q-54" edge="1">
@@ -1086,6 +1086,9 @@
               <mxPoint x="1090" y="240" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YFkTlJaUM1zt7ilc71M8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-73" target="SFHmJDTx3q4_LVQL7-9q-129">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-73" value="MATH 207: Discrete Structures (3)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;strokeWidth=5;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
           <mxGeometry x="810" y="260" width="120" height="60" as="geometry" />
@@ -1229,7 +1232,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SFHmJDTx3q4_LVQL7-9q-121" value="CSCI 230: Data Structures and Algorithms (3)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=5;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
+        <mxCell id="SFHmJDTx3q4_LVQL7-9q-121" value="CSCI 230: Data Structures and Algorithms (3)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=5;dashed=1;dashPattern=1 2;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
           <mxGeometry x="1090" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-124" target="SFHmJDTx3q4_LVQL7-9q-129" edge="1">
@@ -1285,7 +1288,7 @@
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-135" target="SFHmJDTx3q4_LVQL7-9q-137" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SFHmJDTx3q4_LVQL7-9q-135" value="CSCI 320:&lt;div&gt;Programming Language Concepts (3)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=5;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
+        <mxCell id="SFHmJDTx3q4_LVQL7-9q-135" value="CSCI 320:&lt;div&gt;Programming Language Concepts (3)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=5;dashed=1;dashPattern=1 2;shadow=1;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
           <mxGeometry x="1330" y="121" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-137" target="SFHmJDTx3q4_LVQL7-9q-141" edge="1">
@@ -1322,7 +1325,7 @@
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-145" target="SFHmJDTx3q4_LVQL7-9q-147" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SFHmJDTx3q4_LVQL7-9q-145" value="CSCI 345: Computer and Network Security (3)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#FF66B3;strokeWidth=5;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
+        <mxCell id="SFHmJDTx3q4_LVQL7-9q-145" value="CSCI 345: Computer and Network Security (3)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#FF66B3;strokeWidth=5;dashed=1;dashPattern=1 2;glass=0;shadow=1;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
           <mxGeometry x="1600" y="121" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-147" target="SFHmJDTx3q4_LVQL7-9q-150" edge="1">
@@ -1368,7 +1371,7 @@
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-158" target="SFHmJDTx3q4_LVQL7-9q-170" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SFHmJDTx3q4_LVQL7-9q-158" value="CSCI 362: Software Engineering" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#f58114;strokeWidth=5;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
+        <mxCell id="SFHmJDTx3q4_LVQL7-9q-158" value="CSCI 362: Software Engineering" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#f58114;strokeWidth=5;dashed=1;dashPattern=1 2;shadow=1;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
           <mxGeometry x="1820" y="121" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-162" target="SFHmJDTx3q4_LVQL7-9q-166" edge="1">
@@ -1410,7 +1413,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SFHmJDTx3q4_LVQL7-9q-170" value="CSCI 495: Capstone (3)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#ff66b3;strokeWidth=5;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
+        <mxCell id="SFHmJDTx3q4_LVQL7-9q-170" value="CSCI 495: Capstone (3)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#ff66b3;strokeWidth=5;dashed=1;dashPattern=1 2;shadow=1;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
           <mxGeometry x="2070" y="122" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-173" target="SFHmJDTx3q4_LVQL7-9q-174" edge="1">
@@ -1512,6 +1515,9 @@
         </mxCell>
         <mxCell id="YFkTlJaUM1zt7ilc71M8-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;There is no guarantee of gaining permission to take a class without  the required prereq. You are very unlikely to be granted an accepting for these classes.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;perimeterSpacing=0;spacing=15;sketch=1;curveFitting=1;jiggle=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="SFHmJDTx3q4_LVQL7-9q-1">
           <mxGeometry x="60" y="-300" width="380" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YFkTlJaUM1zt7ilc71M8-2" value="Exemption Unlikely" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;glass=0;shadow=1;dashed=1;dashPattern=1 2;strokeWidth=5;" vertex="1" parent="SFHmJDTx3q4_LVQL7-9q-1">
+          <mxGeometry x="60" y="36" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
