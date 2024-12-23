@@ -785,7 +785,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="4-year starting Spring" id="G6kOaa56QiiwyFPq9sWQ">
-    <mxGraphModel dx="2236" dy="2282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2077" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-0" />
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-1" parent="SFHmJDTx3q4_LVQL7-9q-0" />
@@ -897,13 +897,12 @@
             <mxPoint x="1010" y="149.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SFHmJDTx3q4_LVQL7-9q-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=3;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-44" target="SFHmJDTx3q4_LVQL7-9q-147" edge="1">
+        <mxCell id="SFHmJDTx3q4_LVQL7-9q-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=3;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-44" target="SFHmJDTx3q4_LVQL7-9q-147" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="970" y="165" />
-              <mxPoint x="970" y="230" />
-              <mxPoint x="1560" y="230" />
-              <mxPoint x="1560" y="276" />
+              <mxPoint x="900" y="90" />
+              <mxPoint x="1490" y="90" />
+              <mxPoint x="1490" y="276" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1003,35 +1002,37 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SFHmJDTx3q4_LVQL7-9q-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-73" target="SFHmJDTx3q4_LVQL7-9q-147" edge="1">
+        <mxCell id="SFHmJDTx3q4_LVQL7-9q-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-73" target="SFHmJDTx3q4_LVQL7-9q-129" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="900" y="360" />
-              <mxPoint x="1630" y="360" />
+              <mxPoint x="900" y="370" />
+              <mxPoint x="1120" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SFHmJDTx3q4_LVQL7-9q-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-73" target="SFHmJDTx3q4_LVQL7-9q-135" edge="1">
+        <mxCell id="SFHmJDTx3q4_LVQL7-9q-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-73" target="SFHmJDTx3q4_LVQL7-9q-135" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="240" />
+              <mxPoint x="1360" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFHmJDTx3q4_LVQL7-9q-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-73" target="SFHmJDTx3q4_LVQL7-9q-121" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="900" y="210" />
-              <mxPoint x="1360" y="210" />
+              <mxPoint x="1120" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SFHmJDTx3q4_LVQL7-9q-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-73" target="SFHmJDTx3q4_LVQL7-9q-121" edge="1">
+        <mxCell id="YFkTlJaUM1zt7ilc71M8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;entryX=-0.026;entryY=0.767;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-73" target="SFHmJDTx3q4_LVQL7-9q-147">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1590" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1070" y="275" />
-              <mxPoint x="1070" y="180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YFkTlJaUM1zt7ilc71M8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-73" target="SFHmJDTx3q4_LVQL7-9q-129">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1070" y="305" />
-              <mxPoint x="1070" y="430" />
+              <mxPoint x="930" y="340" />
+              <mxPoint x="1490" y="340" />
+              <mxPoint x="1490" y="307" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1132,8 +1133,10 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1520" y="561" />
-              <mxPoint x="1520" y="20" />
-              <mxPoint x="2130" y="20" />
+              <mxPoint x="1520" y="910" />
+              <mxPoint x="2240" y="910" />
+              <mxPoint x="2240" y="60" />
+              <mxPoint x="2130" y="60" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1189,12 +1192,11 @@
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-124" value="CSCI 250: Intro to Comp Org and Assembly (3)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=5;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
           <mxGeometry x="1090" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SFHmJDTx3q4_LVQL7-9q-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-133" target="SFHmJDTx3q4_LVQL7-9q-130" edge="1">
+        <mxCell id="SFHmJDTx3q4_LVQL7-9q-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-133" target="SFHmJDTx3q4_LVQL7-9q-130" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1090" y="580" />
-              <mxPoint x="1050" y="580" />
-              <mxPoint x="1050" y="840" />
+              <mxPoint x="1260" y="570" />
+              <mxPoint x="1260" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1204,7 +1206,7 @@
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-129" value="MATH: 307 Discrete Structures II (3)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;strokeWidth=5;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
           <mxGeometry x="1090" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SFHmJDTx3q4_LVQL7-9q-130" value="&lt;div&gt;Continue your foreign language sequence&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=1;sketch=1;curveFitting=1;jiggle=2;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
+        <mxCell id="SFHmJDTx3q4_LVQL7-9q-130" value="&lt;div&gt;Complete your foreign language sequence&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=1;sketch=1;curveFitting=1;jiggle=2;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
           <mxGeometry x="1090" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-133" target="SFHmJDTx3q4_LVQL7-9q-143" edge="1">
@@ -1238,7 +1240,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SFHmJDTx3q4_LVQL7-9q-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-141" target="SFHmJDTx3q4_LVQL7-9q-113" edge="1">
+        <mxCell id="SFHmJDTx3q4_LVQL7-9q-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-141" target="SFHmJDTx3q4_LVQL7-9q-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-141" value="MATH 250: Statistical Methods I (3)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;strokeWidth=5;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
