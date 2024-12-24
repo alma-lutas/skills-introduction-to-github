@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="7">
   <diagram name="4-year" id="zcuVRARnLTpf-eT5LmWI">
-    <mxGraphModel dx="3110" dy="1917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1458,7 +1458,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="4-year starting Spring" id="G6kOaa56QiiwyFPq9sWQ">
-    <mxGraphModel dx="2077" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1677" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-0" />
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-1" parent="SFHmJDTx3q4_LVQL7-9q-0" />
@@ -1712,7 +1712,7 @@
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-73" value="MATH 207:&amp;nbsp;&lt;div&gt;Discrete Structures (3)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;strokeWidth=5;perimeterSpacing=0;" parent="SFHmJDTx3q4_LVQL7-9q-1" vertex="1">
           <mxGeometry x="810" y="260" width="129" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SFHmJDTx3q4_LVQL7-9q-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-76" target="SFHmJDTx3q4_LVQL7-9q-79" edge="1">
+        <mxCell id="SFHmJDTx3q4_LVQL7-9q-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-76" target="SFHmJDTx3q4_LVQL7-9q-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SFHmJDTx3q4_LVQL7-9q-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=0;strokeWidth=3;endArrow=block;endFill=0;" parent="SFHmJDTx3q4_LVQL7-9q-1" source="SFHmJDTx3q4_LVQL7-9q-76" target="SFHmJDTx3q4_LVQL7-9q-85" edge="1">
