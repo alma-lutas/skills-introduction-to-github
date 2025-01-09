@@ -883,17 +883,6 @@
         <mxCell id="LhguSbljjY78jj2i_nTD-4" value="Non-CSCI Major Requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="LhguSbljjY78jj2i_nTD-1">
           <mxGeometry x="-2230" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LhguSbljjY78jj2i_nTD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" edge="1" parent="LhguSbljjY78jj2i_nTD-1" source="LhguSbljjY78jj2i_nTD-6" target="LhguSbljjY78jj2i_nTD-141">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-2300" y="350" />
-              <mxPoint x="-2300" y="1240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LhguSbljjY78jj2i_nTD-6" value="Gen Ed Requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="LhguSbljjY78jj2i_nTD-1">
-          <mxGeometry x="-2230" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="LhguSbljjY78jj2i_nTD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;startArrow=block;startFill=0;strokeWidth=3;" edge="1" parent="LhguSbljjY78jj2i_nTD-1" source="LhguSbljjY78jj2i_nTD-13" target="LhguSbljjY78jj2i_nTD-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1405,9 +1394,6 @@
         </mxCell>
         <mxCell id="LhguSbljjY78jj2i_nTD-140" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;For &lt;b&gt;class options&lt;/b&gt;, see your Degree Works and your registration page on your MyPortal as well as the course catalog, which can be found here: &lt;a href=&quot;https://catalog.cofc.edu/preview_program.php?catoid=25&amp;amp;poid=5163&amp;amp;returnto=1266&quot;&gt;Course Catalog&lt;/a&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;perimeterSpacing=0;spacing=15;sketch=1;curveFitting=1;jiggle=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="LhguSbljjY78jj2i_nTD-1">
           <mxGeometry x="-1210" y="-366" width="420" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="LhguSbljjY78jj2i_nTD-141" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;Foreign Language Sequence, Humanities, etc&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="LhguSbljjY78jj2i_nTD-1">
-          <mxGeometry x="-2220" y="1210" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LhguSbljjY78jj2i_nTD-142" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Remember: Your &lt;b&gt;scholarship &lt;/b&gt;can depend on the number of credit hours you take a semester. Keep track of class credit hours shown within the parentheses. Verify this on your MyPortal registration page.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;perimeterSpacing=0;spacing=15;sketch=1;curveFitting=1;jiggle=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="LhguSbljjY78jj2i_nTD-1">
           <mxGeometry x="-680" y="-386" width="420" height="200" as="geometry" />
@@ -2477,17 +2463,6 @@
         <mxCell id="RzqnwgMoLhJcjGj_bIM_-4" value="Non-CSCI Major Requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RzqnwgMoLhJcjGj_bIM_-1">
           <mxGeometry x="60" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RzqnwgMoLhJcjGj_bIM_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" edge="1" parent="RzqnwgMoLhJcjGj_bIM_-1" source="RzqnwgMoLhJcjGj_bIM_-6" target="RzqnwgMoLhJcjGj_bIM_-147">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint y="400" />
-              <mxPoint y="1290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RzqnwgMoLhJcjGj_bIM_-6" value="Gen Ed Requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="RzqnwgMoLhJcjGj_bIM_-1">
-          <mxGeometry x="60" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="RzqnwgMoLhJcjGj_bIM_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;startArrow=block;startFill=0;strokeWidth=3;" edge="1" parent="RzqnwgMoLhJcjGj_bIM_-1" source="RzqnwgMoLhJcjGj_bIM_-11" target="RzqnwgMoLhJcjGj_bIM_-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2979,9 +2954,6 @@
         </mxCell>
         <mxCell id="RzqnwgMoLhJcjGj_bIM_-146" value="Suggestions/Notes" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="RzqnwgMoLhJcjGj_bIM_-1">
           <mxGeometry x="60" y="205" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RzqnwgMoLhJcjGj_bIM_-147" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;Foreign Language Sequence, Humanities, etc.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="RzqnwgMoLhJcjGj_bIM_-1">
-          <mxGeometry x="70" y="1260" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RzqnwgMoLhJcjGj_bIM_-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="RzqnwgMoLhJcjGj_bIM_-1" source="RzqnwgMoLhJcjGj_bIM_-106" target="RzqnwgMoLhJcjGj_bIM_-150">
           <mxGeometry relative="1" as="geometry">
